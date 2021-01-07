@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep  1 15:51:55 2020
 
-@author: rong2
-"""
 
 import xml.etree.ElementTree as ET
 import sqlite3
